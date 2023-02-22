@@ -6,4 +6,5 @@ Repository ini digunakan untuk mencari volunter untuk pembuatan aplikasi Megah W
 
 Berikut daftar Volunter yang diterima:
 
-- Pu A Maharan, [Deepeer](https://deeper.id).
+- Pu A Maharan, [Deepeer](https://deeper.id).  
+- Fer D Xampp, [Pollls](https://pollss.id).
